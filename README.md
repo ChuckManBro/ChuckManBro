@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Chuck, an aspiring Front End Developer, just getting my feet wet in the wonderful world of coding!
 
 <!--
 **ChuckManBro/ChuckManBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
