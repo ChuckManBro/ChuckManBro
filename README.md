@@ -1,5 +1,9 @@
-### Hi there 👋, I'm Chuck, an aspiring Front End Developer, just getting my feet wet in the wonderful world of coding!
+### 👋 Hello! I'm Chuck.
 
+I'm an aspiring Front End Developer, just getting my feet wet in the wonderful world of coding!
+
+Find me on LinkedIn:
+https://www.linkedin.com/in/chuckmanbro/
 <!--
 **ChuckManBro/ChuckManBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
