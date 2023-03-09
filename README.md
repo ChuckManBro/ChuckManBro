@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Chuck.
 
-I'm an aspiring Front End Developer, just getting my feet wet in the wonderful world of coding!
+I'm a Front End Developer, just getting started in the wonderful world of coding!
 
 Find me on LinkedIn:
 https://www.linkedin.com/in/chuckmanbro/
