@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Chuck.
 
-I'm a Front End Developer, just getting started in the wonderful world of coding!
+I'm a media professional, deep-diving into the wonderful world of computer coding, looking to add one more arrow to my quiver of Communication skills.
 
 Find me on LinkedIn:
 https://www.linkedin.com/in/chuckmanbro/
