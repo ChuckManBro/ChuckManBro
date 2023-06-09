@@ -1,4 +1,4 @@
-### 👋 Hello! I'm Chuck.
+### 👋 Howdy! I'm Chuck.
 
 I'm a media professional, deep-diving into the wonderful world of computer coding, looking to add one more arrow to my quiver of Communication skills.
 
